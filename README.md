@@ -1,6 +1,8 @@
 # Engineering Asynchronous Challenge
 
-  The following is a set of challenges representing core domains of full-stack web application development. The purpose of this challenge is to give engineer candidates an opportunity to demonstrate their development capabilities in the environment they are accustomed to. This challenge is intended to take up to 90 minutes. 
+  The following is a set of challenges representing core domains of full-stack web application development. The purpose of this challenge is to give engineer candidates an opportunity to demonstrate their development capabilities in the environment they are accustomed to. 
+  
+  We request that candidates spend 90 minutes of focused time on this challenge. Many engineers can spend over 90 minutes on this challenge striving for perfection. We review the results of these challenges with the understanding that 90 minutes is not enough time to create perfect solutions. Instead, it provides a great tool to faciliate conversation about your development strengths. 
 
   Please complete as many challenges as you like. As a rule of thumb, JR Engineer candidates should aim to complete one challenge, Engineers attempt to complete two, and Senior Engineers complete all three challenges.
   
@@ -19,7 +21,7 @@ We have an exciting new opportunity to expand our coaching services to additiona
 
 * Company name title
 
-* A table that previews initial coaching experts that will be available at launch
+* A table that previews initial coaching experts that will be available at launch. Please create this table using a solution other than HTML table tags. A good solution is easily styled and resuable within the application.
 
 * Company logo as icon in browser tab
 
@@ -37,6 +39,8 @@ Coaching experts table:
 | David F. | 8/5/21 | Sports/Fitness |
 | Keir Y. | 4/12/22 | E-Sports |
 
+** Note ** - A possible IU design of this webpage has been provided in the project. You should take any creative liberties you would like with this challenge however.
+
 ## Back End Challenge
 
   Create a service with [REST API](https://www.restapitutorial.com) which performs the following functionality: 
@@ -46,6 +50,8 @@ Coaching experts table:
   - A GET endpoint at `/reservation` where a user gets all future event reservations in their profile
   - All endpoints return standard HTTP response status codes
   - Error responses include supporting error message
+
+  ** Note ** - An event is considered 'passed' if the current local time is beyond the start time of the event. Likewise, events are defined as in the future if their start date is beyond the current local time.
   
   ** Note ** - Persistence of data is not expected in this challenge. It is expected that the data will reset when the service is stopped/restarted.
 
@@ -75,12 +81,8 @@ Startup Order NoSQL Database
 |Cell Phone | String | 405.867.5309 |
 |Email      | String |jane_teacher@gmail.com |
 |Address    | String | 123 School Way, Dallas TX 75001 |
-|Coaching Service ID 1 | Number | 37 |
-|Coaching Service ID 2 | Number | 38 |
-|Coaching Service ID 3 | Number | 39 |
-|Book Set ID 1 | Number | 2 |
-|Book Set ID 2 | Number | 3 |
-|Book Set ID 3 | Number | 4 |
+|Coaching Service ID | List of Number | [37,2002,101] |
+|Book Set ID| List of Number | [22,21] |
 |Order Total | Number | 37.99 |
 |Order Date | String | 12/25/22T23:00:05Z |
 |Discount Code | String | CHEAP |
