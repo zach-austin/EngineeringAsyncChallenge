@@ -39,7 +39,7 @@ Coaching experts table:
 | David F. | 8/5/21 | Sports/Fitness |
 | Keir Y. | 4/12/22 | E-Sports |
 
-** Note ** - A possible IU design of this webpage has been provided in the project. You should take any creative liberties you would like with this challenge however.
+** Note ** - A possible UI design of this webpage has been provided in the project. You should take any creative liberties you would like with this challenge however.
 
 ## Back End Challenge
 
