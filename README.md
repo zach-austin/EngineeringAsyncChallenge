@@ -2,7 +2,7 @@
 
   The following is a set of challenges representing core domains of full-stack web application development. The purpose of this challenge is to give engineer candidates an opportunity to demonstrate their development capabilities in the environment they are accustomed to. 
   
-  We request that candidates spend 90 minutes of focused time on this challenge. Many engineers can spend over 90 minutes on this challenge striving for perfection. We review the results of these challenges with the understanding that 90 minutes is not enough time to create perfect solutions. Instead, it provides a great tool to faciliate conversation about your development strengths. 
+  We request that candidates spend between 90 and 180 minutes of focused time on this challenge. Many engineers can spend over that amount of time on this challenge striving for perfection. We review the results of these challenges with the understanding that 180 minutes is not enough time to create perfect solutions. Instead, it provides a great tool to faciliate conversation about your development strengths. 
 
   Please complete as many challenges as you like. As a rule of thumb, JR Engineer candidates should aim to complete one challenge, Engineers attempt to complete two, and Senior Engineers complete all three challenges.
   
