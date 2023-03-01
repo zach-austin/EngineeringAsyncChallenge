@@ -4,7 +4,7 @@
   
   We request that candidates spend between 90 and 180 minutes of focused time on this challenge. Many engineers can spend over that amount of time on this challenge striving for perfection. We review the results of these challenges with the understanding that 180 minutes is not enough time to create perfect solutions. Instead, it provides a great tool to faciliate conversation about your development strengths. 
 
-  Please complete as many challenges as you like. As a rule of thumb, JR Engineer candidates should aim to complete one challenge, Engineers attempt to complete two, and Senior Engineers complete all three challenges.
+  Please complete as many challenges as you like. As a rule of thumb, JR Engineer candidates should aim to complete one challenge, Engineers attempt to complete two, and Senior Engineers attempt to complete all three challenges.
   
   You may submit incomplete solutions so long as you include a README.md in the challenge subdirectory indicating what was completed and what is outstanding. 
   
