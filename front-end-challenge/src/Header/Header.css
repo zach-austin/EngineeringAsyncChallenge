@@ -1,0 +1,11 @@
+.Header {
+    width: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.content {
+    background-color: rgba(1,1,255,0.5);
+}

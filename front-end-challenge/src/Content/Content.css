@@ -1,0 +1,16 @@
+.Content {
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    width: 100%;
+}
+
+.Content > div {
+    width: 50%;
+    object-fit: contain;
+}
+
+img {
+    width: 100%;
+
+}

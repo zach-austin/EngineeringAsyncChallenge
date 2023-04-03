@@ -1,0 +1,7 @@
+input, label, select {
+    height: 18%;
+}
+
+input, select {
+    width:100%;
+}
