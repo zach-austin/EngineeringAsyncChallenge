@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/EngineeringAsyncChallenge/static/css/main.52d301b9.css",
+    "main.js": "/EngineeringAsyncChallenge/static/js/main.ee31e090.js",
+    "static/media/mailinglist.png": "/EngineeringAsyncChallenge/static/media/mailinglist.248617fb80b00a4a85fd.png",
+    "static/media/coaching.png": "/EngineeringAsyncChallenge/static/media/coaching.0650f707ac4bfe723a49.png",
+    "static/media/hero.png": "/EngineeringAsyncChallenge/static/media/hero.31859d519630c0d5e8a9.png",
+    "index.html": "/EngineeringAsyncChallenge/index.html",
+    "main.52d301b9.css.map": "/EngineeringAsyncChallenge/static/css/main.52d301b9.css.map",
+    "main.ee31e090.js.map": "/EngineeringAsyncChallenge/static/js/main.ee31e090.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52d301b9.css",
+    "static/js/main.ee31e090.js"
+  ]
+}
